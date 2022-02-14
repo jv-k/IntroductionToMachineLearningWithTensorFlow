@@ -1,3 +1,28 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Intro to Machine Learning with TensorFlow Nanodegree Program](#intro-to-machine-learning-with-tensorflow-nanodegree-program)
+  - [Supervise Learning](#supervise-learning)
+    - [Lesson 1](#lesson-1)
+    - [Lesson 2](#lesson-2)
+    - [Linear Regression](#linear-regression)
+    - [Perceptron Algorithm](#perceptron-algorithm)
+    - [Decision Tress](#decision-tress)
+    - [Naive Bayes](#naive-bayes)
+    - [Support Vector Machines (SVMs)](#support-vector-machines-svms)
+    - [Ensemble Methods](#ensemble-methods)
+    - [Model Evaluation Metrics](#model-evaluation-metrics)
+    - [Training and Tuning](#training-and-tuning)
+  - [Deep Learning with TensorFlow](#deep-learning-with-tensorflow)
+    - [Lesson 3](#lesson-3)
+    - [Clustering](#clustering)
+    - [Hierarchical and Density Based Clustering](#hierarchical-and-density-based-clustering)
+    - [Gaussian Mixture Models](#gaussian-mixture-models)
+    - [Dimensionality Reduction and PCA](#dimensionality-reduction-and-pca)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Intro to Machine Learning with TensorFlow Nanodegree Program
 
 ## Supervise Learning
